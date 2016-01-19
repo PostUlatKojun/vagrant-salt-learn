@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/salt":{"guestpath":"/srv/salt","hostpath":"/home/postulatqa/vagrant/vagrant-salt/salt/roots","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/postulatqa/vagrant/vagrant-salt","disabled":false}}}
